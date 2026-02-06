@@ -74,85 +74,31 @@ I'm a passionate software developer focused on building practical tools and util
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Provokke">
-    <img src="https://github-readme-stats.vercel.app/api?username=Provokke&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180px">
-  </a>
-  <a href="https://github.com/Provokke">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Provokke&theme=radical&hide_border=true&layout=compact" alt="Top Languages" height="180px">
-  </a>
-</div>
 
-### GitHub Streak
-<div align="center">
-  <a href="https://github.com/Provokke">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Provokke&theme=radical&hide_border=true" alt="GitHub Streak">
-  </a>
-</div>
+### 📈 Profile Summary
+- 🔭 **Current Projects:** Building FiveM/RedM modifications and web applications
+- 🌱 **Learning:** System architecture and cloud infrastructure
+- 👯 **Collaborating:** Open source game mods and developer tools
+- 💬 **Expertise:** Lua, JavaScript, TypeScript, React, Node.js
 
----
-
-## 🏆 GitHub Trophy
-<div align="center">
-  <a href="https://github.com/Provokke">
-    <img src="https://github-profile-trophy.vercel.app/?username=Provokke&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophy">
-  </a>
-</div>
-
----
-
-## 📈 Contribution Graph
-<div align="center">
-  <a href="https://github.com/Provokke">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Provokke&theme=radical&hide_border=true&area=true" alt="Contribution Graph">
-  </a>
 </div>
 
 ---
 
 ## 🔥 Featured Projects
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/Provokke/kana-dojo">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Provokke&repo=kana-dojo&theme=radical&hide_border=true" alt="kana-dojo">
-      </a>
-      <br>
-      <strong>kana-dojo</strong>
-      <br>
-      <small>Interactive learning platform for Japanese characters</small>
-      <br>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript" alt="TypeScript">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react" alt="React">
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/Provokke/ox-inventory">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Provokke&repo=ox-inventory&theme=radical&hide_border=true" alt="ox-inventory">
-      </a>
-      <br>
-      <strong>ox-inventory</strong>
-      <br>
-      <small>Advanced inventory system for FiveM/RedM servers</small>
-      <br>
-      <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua" alt="Lua">
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/Provokke/App">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Provokke&repo=App&theme=radical&hide_border=true" alt="App">
-      </a>
-      <br>
-      <strong>App</strong>
-      <br>
-      <small>Versatile utility application with multiple features</small>
-      <br>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript" alt="JavaScript">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs" alt="Node.js">
-    </td>
-  </tr>
-</table>
+<div align="center">
+  
+| Project | Description | Link |
+|---------|-------------|------|
+| **kana-dojo** | Interactive learning platform for Japanese characters | [View](https://github.com/Provokke/kana-dojo) |
+| **ox-inventory** | Advanced inventory system for FiveM/RedM servers | [View](https://github.com/Provokke/ox-inventory) |
+| **App** | Versatile utility application with multiple features | [View](https://github.com/Provokke/App) |
+
+</div>
 
 ---
 
@@ -177,20 +123,6 @@ I'm a passionate software developer focused on building practical tools and util
 - Docker containerization
 - Script automation (Bash, Python, Node.js)
 - Git workflow optimization
-
-</div>
-
----
-
-## 📈 Development Metrics
-
-<div align="center">
-
-| Metric | Value |
-|--------|-------|
-| Total Commits | ![Commits](https://badges.pufler.dev/commits/monthly/Provokke) |
-| Total Repositories | ![Repos](https://badges.pufler.dev/repos/Provokke) |
-| Total Stars | ![Stars](https://badges.pufler.dev/stars/Provokke) |
 
 </div>
 
