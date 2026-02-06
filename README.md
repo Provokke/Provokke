@@ -132,9 +132,7 @@ I'm a passionate software developer focused on building practical tools and util
 
 <div align="center">
 
-### Only Discord as requested:
-
-<a href="https://discord.gg/Provokke">
+<a href="https://discord.com/users/928977362652127253">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
 
@@ -146,6 +144,6 @@ I'm a passionate software developer focused on building practical tools and util
 
 ### ⭐️ From [Provokke](https://github.com/Provokke)
 
-*"The best way to predict the future is to create it."*
+*"How to fix code fast?."*
 
 </div>
