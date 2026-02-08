@@ -461,8 +461,7 @@ I'm a passionate and versatile software developer with expertise across multiple
 
 ### 🔥 Recent Contributions
 - 🐛 Fixed bugs in ox-inventory system
-- ✨ Added new features to TTR Stables
-- 📝 Updated documentation for multiple projects
+- 📝 Fixing code for open source applications within github
 - 💄 Improved UI/UX for web applications
 - ⚡ Optimized performance for game scripts
 
@@ -480,10 +479,8 @@ I'm a passionate and versatile software developer with expertise across multiple
 
 <div align="left">
 
-- ☕ I code with coffee always nearby
 - 🌙 I'm most productive during late night hours
 - 🎵 I listen to music while coding (Spotify linked below)
-- 📖 I love reading technical documentation
 - 🐛 Debugging is actually relaxing for me
 - 🤝 I enjoy helping others solve problems
 - 🎮 I'm passionate about game development
@@ -494,7 +491,7 @@ I'm a passionate and versatile software developer with expertise across multiple
 - 💡 I love solving complex problems
 - 🎯 I set goals and achieve them
 - 🔧 I enjoy building tools for others
-- 💻 I've been coding for several years
+- 💻 I've been coding for several years and started out through the FiveM platform utilising LUA
 
 </div>
 
@@ -508,120 +505,6 @@ I'm a passionate and versatile software developer with expertise across multiple
 
 *Connect with me on Discord to see what I'm vibing to!*
 
-</div>
-
----
-
-## 💬 Favorite Quotes
-
-<div align="center">
-
-> *"First, solve the problem. Then, write the code."*
-> — John Johnson
-
-> *"Code is like humor. When you have to explain it, it's bad."*
-> — Cory House
-
-> *"Programming is not about what you know; it's about what you can figure out."*
-> — Chris Pine
-
-> *"The only way to learn a new programming language is by writing programs in it."*
-> — Dennis Ritchie
-
-> *"Simplicity is the soul of efficiency."*
-> — Austin Freeman
-
-</div>
-
----
-
-## 📊 Github Metrics (Alternative)
-
-<div align="center">
-
-### 📈 Stats Overview
-- **Total Commits:** 500+
-- **Total Issues:** 100+
-- **Total PRs:** 150+
-- **Contributed to:** 30+ repositories
-
-### 🎯 Streak
-- **Current Streak:** 🔥 30+ days
-- **Longest Streak:** 🔥 100+ days
-
-</div>
-
----
-
-## 🎮 Game Stats
-
-<div align="center">
-
-### 🎲 Favorite Games
-- Red Dead Redemption 2 (RedM)
-- Grand Theft Auto V (FiveM)
-- Minecraft
-- Valorant
-- League of Legends
-
-### 🎮 Playstyle
-- 🎯 Strategic thinker
-- 🤝 Team player
-- 🧠 Problem solver
-- 🔧 Tinkerer
-
-</div>
-
----
-
-## 🏆 Hackathons & Competitions
-
-<div align="center">
-
-### 🎖️ Achievements
-- 🏆 First Place - Game Mod Competition
-- 🥈 Second Place - Hackathon 2023
-- 🎯 Multiple Top 10 Finishes
-- ⭐ Recognition for Open Source Contributions
-
-</div>
-
----
-
-## 📚 Education & Learning
-
-<div align="center">
-
-### 🎓 Formal Education
-- Computer Science (Self-Taught + Online Courses)
-- Multiple Certifications in Web Development
-- Game Development Specializations
-- Cloud Computing Certifications
-
-### 📚 Continuous Learning
-- 📖 Technical books
-- 🎥 Online courses
-- 🐦 Developer Twitter
-- 💻 Open source projects
-- 🎮 Game development communities
-
-</div>
-
----
-
-## 🗂️ Project Categories
-
-<div align="center">
-
-### 📁 My Repositories
-- 🎮 **Game Mods** - FiveM/RedM scripts and frameworks
-- 🌐 **Web Apps** - Full-stack applications
-- ⚡ **Automation** - Scripts and tools
-- 🛠️ **Utilities** - Developer tools
-- 📚 **Examples** - Learning projects
-- 🎓 **Tutorials** - Code walkthroughs
-
-</div>
 
 ---
 
@@ -660,7 +543,6 @@ I'm a passionate and versatile software developer with expertise across multiple
 ### 💬 Let's Connect
 - 🤝 Open for collaborations
 - 💼 Open for freelance work
-- 🎓 Happy to mentor
 - 💡 Always learning
 
 </div>
@@ -686,7 +568,7 @@ I'm a passionate and versatile software developer with expertise across multiple
 
 ### ⭐️ From [Provokke](https://github.com/Provokke)
 
-*"First, solve the problem. Then, write the code."*
+*"ChatGPT how do i to fix code fast."*
 
 ---
 
