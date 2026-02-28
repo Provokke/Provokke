@@ -407,7 +407,6 @@ I'm a passionate and versatile software developer with expertise across multiple
 
 <div align="center">
   <img src="https://img.shields.io/badge/English-0078D4?style=for-the-badge&logo=english&logoColor=white" alt="English - Native">
-  <img src="https://img.shields.io/badge/Japanese-FF0000?style=for-the-badge&logo=japanese&logoColor=white" alt="Japanese - Learning">
   <img src="https://img.shields.io/badge/Programming-000000?style=for-the-badge&logo=code&logoColor=white" alt="Lua, JS, TS, Python, etc.">
 </div>
 
