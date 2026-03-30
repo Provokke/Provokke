@@ -512,7 +512,7 @@ I'm a passionate and versatile software developer with expertise across multiple
 
 <div align="center">
 
-### 🎯 2024 Goals
+### 🎯 2026 Goals
 - [ ] Launch 5 new open source projects
 - [ ] Contribute to 50+ open source issues
 - [ ] Reach 100 GitHub followers
