@@ -9,7 +9,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Provokke&color=blueviolet&style=for-the-badge)
 ![Location](https://img.shields.io/badge/Location-Australia_Sydney-5865F2?style=for-the-badge)
 ![Time Zone](https://img.shields.io/badge/Time_Zone-AEST-FF6B6B?style=for-the-badge)
-![Working Hours](https://img.shields.io/badge/Working_Hours-9AM-11PM-4ECDC4?style=for-the-badge)
 
 </div>
 
