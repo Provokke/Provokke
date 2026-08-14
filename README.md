@@ -244,7 +244,7 @@ I'm a passionate and versatile software developer with expertise across multiple
 | **kana-dojo** | Interactive learning platform for Japanese characters | TypeScript, React, Node.js | [View](https://github.com/Provokke/kana-dojo) |
 | **ox-inventory** | Advanced inventory system for FiveM/RedM servers | Lua, Cfx API | [View](https://github.com/Provokke/ox-inventory) |
 | **App** | Versatile utility application with multiple features | JavaScript, Node.js | [View](https://github.com/Provokke/App) |
-| **TTR Stables** | RedM horse management system built on VORP framework | Lua, MySQL, JavaScript | [View](https://github.com/Provokke/ttr-stables) |
+| **CRM App** | Modern web-based CRM platform with intuitive UI and sales management tools | React, TypeScript, Tailwind, Node.js | [View](https://github.com/Provokke/provokke-crmapp-preview) |
 
 </div>
 
