@@ -241,7 +241,7 @@ I'm a passionate and versatile software developer with expertise across multiple
 
 | Project | Description | Technologies | Link |
 |---------|-------------|--------------|------|
-| **kana-dojo** | Interactive learning platform for Japanese characters | TypeScript, React, Node.js | [View](https://github.com/Provokke/kana-dojo) |
+| Wellness Mobile App | Modern wellness-focused mobile application with habit tracking and productivity tools | Next.js, React, TailwindCSS| [View](https://github.com/Provokke/Wellness-Mobile-App) |
 | **ox-inventory** | Advanced inventory system for FiveM/RedM servers | Lua, Cfx API | [View](https://github.com/Provokke/ox-inventory) |
 | **App** | Versatile utility application with multiple features | JavaScript, Node.js | [View](https://github.com/Provokke/App) |
 | **CRM App** | Modern web-based CRM platform with intuitive UI and sales management tools | React, TypeScript, Tailwind, Node.js | [View](https://github.com/Provokke/provokke-crmapp-preview) |
