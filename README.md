@@ -211,6 +211,7 @@ I'm a multi-disciplinary engineer working across the whole stack: from smart con
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
+| [**blockwarden**](https://github.com/Provokke/blockwarden) | Self-hosted, serverless EVM event monitoring on AWS: durable records from finalized blocks, fast provisional alerts, a lagging-node guard, and property-tested scanning deployed with Terraform | TypeScript, viem, AWS Lambda, DynamoDB, Terraform, GitHub Actions |
 | [**tether-m4l**](https://github.com/Provokke/tether-m4l) | Real-time bridge streaming an Ableton Live Set's state to a WebSocket server and taking commands back, with a Node relay server, browser dashboard, test suite, CI and tagged releases | Node.js, WebSockets, JavaScript, GitHub Actions |
 
 </div>
