@@ -213,6 +213,11 @@ I'm a multi-disciplinary engineer working across the whole stack: from smart con
 |---------|-------------|--------------|
 | [**blockwarden**](https://github.com/Provokke/blockwarden) | Self-hosted, serverless EVM event monitoring on AWS: durable records from finalized blocks, fast provisional alerts, a lagging-node guard, and property-tested scanning deployed with Terraform | TypeScript, viem, AWS Lambda, DynamoDB, Terraform, GitHub Actions |
 | [**tether-m4l**](https://github.com/Provokke/tether-m4l) | Real-time bridge streaming an Ableton Live Set's state to a WebSocket server and taking commands back, with a Node relay server, browser dashboard, test suite, CI and tagged releases | Node.js, WebSockets, JavaScript, GitHub Actions |
+| [**shopify-admin-app**](https://github.com/Provokke/shopify-admin-app) | Embedded Shopify admin app skeleton: OAuth, cost-aware GraphQL client, bulk operations and idempotent webhooks. Offline tests and demo | TypeScript, Shopify GraphQL, Vitest, GitHub Actions |
+| [**serverless-api-terraform**](https://github.com/Provokke/serverless-api-terraform) | Serverless items API on AWS with Terraform modules and least-privilege IAM, with offline unit tests | TypeScript, AWS Lambda, API Gateway, DynamoDB, Terraform |
+| [**catalogue-sync-pipeline**](https://github.com/Provokke/catalogue-sync-pipeline) | Supplier feed sync (CSV, JSON, HTML) with diffing, batched sync with checkpoint resume and a robots.txt-respecting fetcher | TypeScript, Vitest, GitHub Actions |
+| [**web3-checkout-demo**](https://github.com/Provokke/web3-checkout-demo) | Solidity escrow checkout with Foundry fuzz tests and a TypeScript pay client run against local anvil. Unaudited, never deployed | Solidity, Foundry, TypeScript, viem |
+| [**fivem-redm-toolkit**](https://github.com/Provokke/fivem-redm-toolkit) | Lua framework bridge for ESX, QBCore and Qbox with a NUI sample. Specs and demo run offline; never run on a live FXServer | Lua, FiveM, NUI, GitHub Actions |
 
 </div>
 
