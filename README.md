@@ -56,7 +56,7 @@ I like building things from scratch to understand how they actually work.
 
 | | |
 |---|---|
-| [**fivem-redm-toolkit**](https://github.com/Provokke/fivem-redm-toolkit) | Lua framework bridge for ESX, QBCore and Qbox with a NUI sample |
+| [**fivem-redm-toolkit**](https://github.com/Provokke/fivem-redm-toolkit) | Lua framework bridge for FiveM (ESX, QBCore, Qbox) with a NUI sample |
 | [**awesome-redm**](https://github.com/Provokke/awesome-redm) | Curated list of RedM and FiveM frameworks, resources and tools |
 
 ---
