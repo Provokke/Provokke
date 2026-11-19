@@ -52,6 +52,31 @@ I like building things from scratch to understand how they actually work.
 | [**blockwarden**](https://github.com/Provokke/blockwarden) | Serverless EVM event monitor on AWS — Lambda, DynamoDB, Terraform-deployed |
 | [**flowforge**](https://github.com/Provokke/flowforge) | Zero-dependency DAG workflow engine with retries, fallbacks and templating |
 
+### Polyglot experiments
+
+| | |
+|---|---|
+| [**sluice**](https://github.com/Provokke/sluice) | Command-line summariser for web server access logs, in core Perl |
+| [**gantry**](https://github.com/Provokke/gantry) | Small HTTP router and middleware pipeline for PHP 8.2+, no dependencies |
+| [**fathom**](https://github.com/Provokke/fathom) | Query CSV files with a small SQL-like language, written in F# |
+| [**cairn**](https://github.com/Provokke/cairn) | Compressed radix tree for byte-string keys in Zig |
+| [**lathe**](https://github.com/Provokke/lathe) | Logic-less templates for Nim in the Mustache style |
+| [**marl**](https://github.com/Provokke/marl) | Explicit ODE solvers in plain Julia: Euler, RK4 and adaptive Dormand-Prince |
+| [**tarn**](https://github.com/Provokke/tarn) | Robust outlier and level shift detection for time series in base R |
+| [**dovetail**](https://github.com/Provokke/dovetail) | Dense linear solvers in modern Fortran: LU, Cholesky and conjugate gradient |
+| [**plinth**](https://github.com/Provokke/plinth) | Embedded Bitcask-style append-only key-value store in Java 21 |
+| [**halyard**](https://github.com/Provokke/halyard) | Cron expression parser and next-run calculator in Kotlin |
+| [**trellis**](https://github.com/Provokke/trellis) | Spreadsheet formula engine in Scala 3 with dependency tracking and cycle detection |
+| [**grist**](https://github.com/Provokke/grist) | Small Datalog-style query engine over in-memory triples, in Clojure |
+| [**sextant**](https://github.com/Provokke/sextant) | Geospatial maths in pure Swift: haversine, bearings, geohash and point-in-polygon |
+| [**bobbin**](https://github.com/Provokke/bobbin) | Myers diff, unified diff output and patch application in Dart |
+| [**tollgate**](https://github.com/Provokke/tollgate) | Token bucket and sliding window rate limiters on GenServer and ETS, in Elixir |
+| [**ringmaster**](https://github.com/Provokke/ringmaster) | Consistent hash ring with virtual nodes for Erlang/OTP |
+| [**saltmark**](https://github.com/Provokke/saltmark) | Small Markdown-subset to HTML converter in Ruby |
+| [**currawong**](https://github.com/Provokke/currawong) | Concurrent HTTP load-testing CLI in Crystal |
+| [**wattle**](https://github.com/Provokke/wattle) | From-scratch parser-combinator library and JSON parser in Haskell |
+| [**mallee**](https://github.com/Provokke/mallee) | Hindley-Milner type inference for a mini lambda calculus in OCaml |
+
 ### Game mods
 
 | | |
