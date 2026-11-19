@@ -52,6 +52,31 @@ I like building things from scratch to understand how they actually work.
 | [**blockwarden**](https://github.com/Provokke/blockwarden) | Serverless EVM event monitor on AWS — Lambda, DynamoDB, Terraform-deployed |
 | [**flowforge**](https://github.com/Provokke/flowforge) | Zero-dependency DAG workflow engine with retries, fallbacks and templating |
 
+### Libraries & services
+
+| | |
+|---|---|
+| [**thimble**](https://github.com/Provokke/thimble) | Regex engine in Rust: Thompson NFA and Pike VM with captures, classes, anchors and lazy quantifiers |
+| [**bellows**](https://github.com/Provokke/bellows) | Bounded SPSC and MPMC ring-buffer channels in Rust, std only |
+| [**pantry**](https://github.com/Provokke/pantry) | Generic in-memory TTL cache for Go with LRU eviction, sharding and singleflight loading |
+| [**breakwater**](https://github.com/Provokke/breakwater) | HTTP reverse proxy in Go with per-client rate limiting, round-robin upstreams and health checks |
+| [**signpost**](https://github.com/Provokke/signpost) | URL shortener service in Go with base62 ids, a JSON API and a file-backed store |
+| [**rivet**](https://github.com/Provokke/rivet) | Event-sourcing library for Node: aggregates, event stores, projections and snapshots |
+| [**ferry**](https://github.com/Provokke/ferry) | Sync a directory to another machine over HTTP using content hashes |
+| [**tessel**](https://github.com/Provokke/tessel) | Schema validation for TypeScript with inferred types, composable parsers and error paths |
+| [**lantern**](https://github.com/Provokke/lantern) | Typed state machine and statechart library for TypeScript |
+| [**ostler**](https://github.com/Provokke/ostler) | Dependency-injection container for TypeScript with scopes, async factories and cycle detection |
+| [**cobbler**](https://github.com/Provokke/cobbler) | CLI argument parser library for .NET: commands, options, flags and generated help |
+| [**parlour**](https://github.com/Provokke/parlour) | Mediator library for .NET with request/response, notifications and pipeline behaviours |
+| [**anvil**](https://github.com/Provokke/anvil) | Dependency-free JSON parser, serialiser and path query engine for Java 21 |
+| [**sprocket**](https://github.com/Provokke/sprocket) | C11 arena allocator, open-addressing hash map and dynamic array toolkit |
+| [**fretwork**](https://github.com/Provokke/fretwork) | Header-only C++20 Expected, optional chaining and string formatting |
+| [**larder**](https://github.com/Provokke/larder) | PSR-11 dependency container for PHP 8.2 with reflection autowiring |
+| [**ledgerly**](https://github.com/Provokke/ledgerly) | Plain-text double-entry accounting CLI in Python |
+| [**hearth**](https://github.com/Provokke/hearth) | Static site generator in Python: markdown subset, front matter and templates |
+| [**quoit**](https://github.com/Provokke/quoit) | Asyncio task queue for Python with retries, delays and a worker pool |
+| [**bramble**](https://github.com/Provokke/bramble) | Command-line todo and notes manager in Ruby with a plain-text file store |
+
 ### Polyglot experiments
 
 | | |
